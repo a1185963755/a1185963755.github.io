@@ -118,7 +118,6 @@ dist
 
 # pnpm
 .pnpm-store
-pnpm-lock.yaml
 
 # VitePress generated files
 docs/.vitepress/dist
