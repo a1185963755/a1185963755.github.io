@@ -121,6 +121,7 @@ dist
 
 # VitePress generated files
 docs/.vitepress/dist
+docs/.vitepress/cache
 
 # Log files
 logs
