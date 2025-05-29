@@ -23,14 +23,11 @@ export default defineConfig({
   title: "th的博客",
   description: "分享技术，记录生活",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "主页", link: "/" },
-      { text: "前端", link: "/2025/markdown-examples" },
+      { text: "前端", link: "/2025" },
     ],
-
     sidebar: autoSidebar(),
-
     socialLinks: [{ icon: "github", link: "https://github.com/a1185963755" }],
   },
   vite: {

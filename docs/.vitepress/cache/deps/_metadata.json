@@ -2,61 +2,61 @@
   "hash": "fc97f83c",
   "configHash": "24817908",
   "lockfileHash": "7fa5d57c",
-  "browserHash": "fced0818",
+  "browserHash": "6493d2c6",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "43677ad4",
+      "fileHash": "f844cfc1",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "57ae53c2",
+      "fileHash": "f46fb368",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "ae5e3596",
+      "fileHash": "c650d997",
       "needsInterop": false
     },
     "naive-ui": {
       "src": "../../../../node_modules/naive-ui/es/index.mjs",
       "file": "naive-ui.js",
-      "fileHash": "71effd4a",
+      "fileHash": "ff8c1351",
       "needsInterop": false
     },
     "@css-render/vue3-ssr": {
       "src": "../../../../node_modules/@css-render/vue3-ssr/esm/index.js",
       "file": "@css-render_vue3-ssr.js",
-      "fileHash": "a29a4bb1",
+      "fileHash": "2ab1aaaf",
       "needsInterop": false
-    },
-    "@vicons/material": {
-      "src": "../../../../node_modules/@vicons/material/es/index.js",
-      "file": "@vicons_material.js",
-      "fileHash": "77a92faa",
-      "needsInterop": false
-    },
-    "dayjs": {
-      "src": "../../../../node_modules/dayjs/dayjs.min.js",
-      "file": "dayjs.js",
-      "fileHash": "0cb443c8",
-      "needsInterop": true
     },
     "busuanzi.pure.js": {
       "src": "../../../../node_modules/busuanzi.pure.js/index.js",
       "file": "busuanzi__pure__js.js",
-      "fileHash": "ceb3d834",
+      "fileHash": "26e87f0c",
       "needsInterop": true
     },
     "vitepress-plugin-image-viewer": {
       "src": "../../../../node_modules/vitepress-plugin-image-viewer/lib/viewer.js",
       "file": "vitepress-plugin-image-viewer.js",
-      "fileHash": "d8f2ae6f",
+      "fileHash": "30646ffa",
       "needsInterop": false
+    },
+    "@vicons/material": {
+      "src": "../../../../node_modules/@vicons/material/es/index.js",
+      "file": "@vicons_material.js",
+      "fileHash": "a6e27237",
+      "needsInterop": false
+    },
+    "dayjs": {
+      "src": "../../../../node_modules/dayjs/dayjs.min.js",
+      "file": "dayjs.js",
+      "fileHash": "21662ccd",
+      "needsInterop": true
     }
   },
   "chunks": {

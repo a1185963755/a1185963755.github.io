@@ -1,6 +1,6 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
-import { watch, nextTick, onMounted, ref } from 'vue'
+import { onMounted, ref } from 'vue'
 import Loading from '../components/Loading.vue'
 const loading = ref(true)
 const { Layout } = DefaultTheme
@@ -19,7 +19,7 @@ onMounted(() => {
           <span id="busuanzi_value_site_pv" class="font-bold">--</span> 次 本站访客数
           <span id="busuanzi_value_site_uv" class="font-bold">--</span> 人次
         </div>
-        <p>前端狗都不如 © 2021-2024 holden</p>
+        <p>前端狗都不如 © 2021-2025 th</p>
       </div>
     </template>
   </Layout>
