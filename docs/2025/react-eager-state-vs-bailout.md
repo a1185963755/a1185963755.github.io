@@ -1,5 +1,10 @@
 ---
 title: react中eager state和bailout的对比
+date: 2025-05-28T00:00:00Z
+info: 在React的开发过程中，Eager State和Bailout是两个重要的概念，它们对组件的性能和状态更新有着关键的影响。
+tags:
+  - React
+  - React架构
 ---
 
 # React中Eager State和Bailout的对比
