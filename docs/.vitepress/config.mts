@@ -25,7 +25,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: "主页", link: "/" },
-      { text: "前端", link: "/2025" },
+      { text: "前端", link: "/directory" },
     ],
     sidebar: autoSidebar(),
     socialLinks: [{ icon: "github", link: "https://github.com/a1185963755" }],
